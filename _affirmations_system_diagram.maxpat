@@ -44,7 +44,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 270.0, 495.0, 60.0, 20.0 ],
-					"presentation_rect" : [ 290.0, 434.0, 0.0, 0.0 ],
 					"style" : "",
 					"text" : "Layer 3"
 				}
@@ -58,7 +57,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 270.0, 301.0, 60.0, 20.0 ],
-					"presentation_rect" : [ 285.0, 255.0, 0.0, 0.0 ],
 					"style" : "",
 					"text" : "Layer 2"
 				}
@@ -72,7 +70,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 270.0, 181.0, 60.0, 20.0 ],
-					"presentation_rect" : [ 298.0, 168.0, 0.0, 0.0 ],
 					"style" : "",
 					"text" : "Layer 1"
 				}
@@ -87,7 +84,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 15.0, 15.0, 120.0, 33.0 ],
-					"presentation_rect" : [ 331.0, 15.0, 0.0, 0.0 ],
 					"style" : "",
 					"text" : "Affirmations\nSystem diagram"
 				}
@@ -127,7 +123,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 390.0, 76.0, 75.0, 20.0 ],
-					"presentation_rect" : [ 436.0, 532.0, 0.0, 0.0 ],
 					"style" : "",
 					"text" : "Sensor"
 				}
@@ -141,7 +136,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 45.0, 225.0, 47.0, 22.0 ],
-					"presentation_rect" : [ 239.0, 162.0, 0.0, 0.0 ],
 					"style" : "",
 					"text" : "Keying"
 				}
@@ -168,7 +162,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 585.0, 75.0, 48.0, 20.0 ],
-					"presentation_rect" : [ 727.0, 95.0, 0.0, 0.0 ],
 					"style" : "",
 					"text" : "Audio"
 				}
@@ -221,7 +214,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 660.0, 361.0, 40.0, 22.0 ],
-					"presentation_rect" : [ 797.0, 248.0, 0.0, 0.0 ],
 					"style" : "",
 					"text" : "Mixer"
 				}
@@ -235,7 +227,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 660.0, 226.0, 109.0, 22.0 ],
-					"presentation_rect" : [ 840.0, 248.0, 0.0, 0.0 ],
 					"style" : "",
 					"text" : "Background music"
 				}
@@ -301,7 +292,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 45.0, 180.0, 33.0, 22.0 ],
-					"presentation_rect" : [ 222.0, 122.0, 0.0, 0.0 ],
 					"style" : "",
 					"text" : "Lips"
 				}
@@ -314,10 +304,9 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 285.0, 331.0, 29.5, 22.0 ],
-					"presentation_rect" : [ 669.0, 122.0, 0.0, 0.0 ],
+					"patching_rect" : [ 240.0, 330.0, 85.0, 22.0 ],
 					"style" : "",
-					"text" : "Bill"
+					"text" : "Mystery guest"
 				}
 
 			}
@@ -363,7 +352,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 375.0, 61.0, 165.0, 554.0 ],
-					"presentation_rect" : [ 421.0, 517.0, 0.0, 0.0 ],
 					"proportion" : 0.39,
 					"style" : ""
 				}
@@ -381,7 +369,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 555.0, 60.0, 330.0, 555.0 ],
-					"presentation_rect" : [ 712.0, 80.0, 0.0, 0.0 ],
 					"proportion" : 0.39,
 					"style" : ""
 				}
@@ -399,7 +386,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 30.0, 480.0, 315.0, 90.0 ],
-					"presentation_rect" : [ 43.0, 264.0, 0.0, 0.0 ],
 					"proportion" : 0.39,
 					"style" : ""
 				}
@@ -417,7 +403,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 30.0, 286.0, 315.0, 180.0 ],
-					"presentation_rect" : [ 44.0, 265.0, 0.0, 0.0 ],
 					"proportion" : 0.39,
 					"style" : ""
 				}
